@@ -1,5 +1,5 @@
-# C-Footprint-Optimization
-🌱 Carbon Footprint Optimizer for Supply Chain Logistics 🚛 A smart deep learning-powered tool to predict carbon emissions in supply chains based on emission factors and margin data. This project helps businesses make eco-friendly logistics decisions by estimating CO₂e per dollar spent.
+# C-Footprint-Optimization 
+Carbon Footprint Optimizer for Supply Chain Logistics, smart deep learning-powered tool to predict carbon emissions in supply chains based on emission factors and margin data. 
 
 Try out the application which is live 
 # 🌱 Carbon Footprint Optimization in Supply Chain Logistics 🚛
